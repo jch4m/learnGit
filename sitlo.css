@@ -2,4 +2,6 @@
 /*stile Document*/
 body{
     background-color: green;
+    font-weight: bold;
+    color:#F00;
 }
